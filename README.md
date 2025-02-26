@@ -2,7 +2,7 @@
 
 # Python 3D Engine
 
-A simple 3D engine built in Python using Pygame. This project renders 3D points onto a 2D screen using basic 3D projection math.
+A simple 3D engine I built a while ago in Python using Pygame. This project renders 3D points onto a 2D screen using basic 3D projection math.
 
 ## Features
 - **Full-Screen Mode:** Runs in full-screen for an immersive experience.
